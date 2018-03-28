@@ -69,6 +69,11 @@ Blockchain Network will pass the blocks where all the information will be taken 
 > [Demo display](https://think-iot-processor.mybluemix.net/ui/#/0)
 
 
+# Technology
+
+* [Blockchain](https://developer.ibm.com/code/technologies/blockchain/)
+* [Hyperledger Fabric V1.0](https://www.hyperledger.org/projects/fabric?cm_mc_uid=56476701007714999647300&cm_mc_sid_50200000=1501558767)
+
 ## Useful links
 
 * [IBM Cloud](https://bluemix.net/)  
@@ -78,8 +83,6 @@ Blockchain Network will pass the blocks where all the information will be taken 
 * [IBM Watson IoT Platform](http://www.ibm.com/internet-of-things/iot-solutions/watson-iot-platform/)   
 * [IBM Watson IoT Platform Developers Community](https://developer.ibm.com/iotplatform/)
 * [Node Red](https://nodered.org/)
-* [Blockchain](https://developer.ibm.com/code/technologies/blockchain/)
-* [Hyperledger Fabric V1.0](https://www.hyperledger.org/projects/fabric?cm_mc_uid=56476701007714999647300&cm_mc_sid_50200000=1501558767)
 
 
 ## License
