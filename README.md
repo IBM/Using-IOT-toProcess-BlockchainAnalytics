@@ -62,7 +62,7 @@ Blockchain Network will pass the blocks where all the information will be taken 
 ![](docs/iot-platform.png)
 
 
-* Values are passed in to: 'https://think-iot-processor.mybluemix.net/steps?message=' + blocks
+* Values are passed in as json into: `'https://<YOUR-APP-NAME>.mybluemix.net/steps?message=' + blocks`
 
 
 **Try live demo url:**
