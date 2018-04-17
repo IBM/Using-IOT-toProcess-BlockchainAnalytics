@@ -23,6 +23,7 @@ The app will also use a graph in real-time to show the Blockchain transactions c
 ## Prerequisites
 You will need the following accounts and tools:
 * [IBM Cloud account](https://console.ng.bluemix.net/registration/)
+* [Blockchain Network Pattern (Optional)](https://developer.ibm.com/code/patterns/explore-hyperledger-fabric-through-a-complete-set-of-apis/)
 
 
 ## Steps of use
